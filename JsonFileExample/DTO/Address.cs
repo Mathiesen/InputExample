@@ -1,4 +1,4 @@
-namespace InputExample.DTO;
+namespace JsonFileExample.DTO;
 
 public class Address
 {
